@@ -11,7 +11,7 @@ const userSchema = new mongoose.Schema({
 		type: String,
 	},
 	password: {
-		type: 'String',
+		type: String,
 	},
 	age: {
 		type: Number,
